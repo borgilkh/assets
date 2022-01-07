@@ -1,0 +1,47 @@
+{
+
+    "name": “Hexiar,
+
+    "website": "https://hexiar.com/“,
+
+    "description": "Hexiar is the new DeFi 2.0 project that has a staking platform.",
+
+    "explorer": "https://bscscan.com/token/0xc094bea26c200de87770adf91f9d88e42800af44",
+
+    "type": "BEP20",
+
+    "symbol": “XRH,
+
+    "decimals": 18,
+
+    "status": "active",
+
+    "id": "0xc094bea26c200de87770adf91f9d88e42800af44",
+
+    "links": [
+
+        {
+
+            "name": "telegram",
+
+            "url": "https://t.me/hexiar"
+
+        },
+
+        {
+
+            "name": "twitter",
+
+            "url": "https://twitter.com/xrhcoin”
+
+        },
+
+        {
+
+            "name": "facebook",
+
+            "url": "https://facebook.com/hexiar”
+
+        }
+
+    
